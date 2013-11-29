@@ -1,0 +1,8 @@
+c:\users\mohsin\documents\visual studio 2010\Projects\Elevate\Elevate\obj\x86\Debug\Elevate.Resources.resources
+c:\users\mohsin\documents\visual studio 2010\Projects\Elevate\Elevate\obj\x86\Debug\Elevate.vbproj.GenerateResource.Cache
+c:\Users\Mohsin\Documents\Visual Studio 2010\Projects\Elevate\Elevate\bin\Debug\Elevate.exe
+c:\Users\Mohsin\Documents\Visual Studio 2010\Projects\Elevate\Elevate\bin\Debug\Elevate.pdb
+c:\Users\Mohsin\Documents\Visual Studio 2010\Projects\Elevate\Elevate\bin\Debug\Elevate.xml
+c:\Users\Mohsin\Documents\Visual Studio 2010\Projects\Elevate\Elevate\obj\x86\Debug\Elevate.exe
+c:\Users\Mohsin\Documents\Visual Studio 2010\Projects\Elevate\Elevate\obj\x86\Debug\Elevate.xml
+c:\Users\Mohsin\Documents\Visual Studio 2010\Projects\Elevate\Elevate\obj\x86\Debug\Elevate.pdb
